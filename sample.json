@@ -1,0 +1,16 @@
+{
+        "irc": {
+                "host": "host name for irc server",
+                "port": "port for irc server",
+                "ssl": false,
+                "ssl_verify_skip": false,
+                "channels": [ "" ],
+                "password": "password for irc server",
+                "nickname": "issuebot"
+        },
+        "github": {
+                "token": "github auth token",
+                "owner": "github repository owner",
+                "repos": "github repository name"
+        }
+}
