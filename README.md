@@ -18,3 +18,7 @@ github-issue-ircbot --config /path/to/config.json
 
 * http://blog.handlena.me/entry/2013/06/12/234712
 * http://soh335.hatenablog.com/entry/2013/06/13/103457
+
+## license
+
+* MIT
